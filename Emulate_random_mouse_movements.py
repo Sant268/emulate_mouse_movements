@@ -1,3 +1,5 @@
+'''for input, call the function as random_movement((300,300),(600,600))'''
+
 import ctypes
 import random
 import time
